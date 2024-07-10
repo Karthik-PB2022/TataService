@@ -4,13 +4,15 @@ Analysis on service centres of Tata Motors
 
 # Issues/Hypothesis to be proven(Data Requirement)
 A) **Cramped service centres**:
-   Google image data
-   Google customer reviews
-   Team Bhp
+     Google image data
+     Google customer reviews
+     Team Bhp
+   
 B) **Number of issues reported/FeedbacK:**
-   Google Reviews
-   Trusted Online Sources like Team BHP
+     Google Reviews
+     Trusted Online Sources like Team BHP
+   
 C) **Showroom Vs Service Analysis:**
-   Google Reviews
+     Google Reviews
 
 End Outcome - Compare Tata's performance vs Hyundai/ other highly reputed manufacturer in terms of customer service. 
